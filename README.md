@@ -1,6 +1,10 @@
 # springbootsample
 sample application in spring boot with unit test cases using mock mvc
 
+Requirements
+1. JDK 7 or higher
+2. Maven 3 or higer
+
 Run this application
 
 1. Using maven
